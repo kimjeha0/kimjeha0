@@ -1,4 +1,4 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JeHa%20Kim&fontSize=150)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JeHa%20Kim&fontSize=120)
